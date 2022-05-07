@@ -5,7 +5,7 @@ The Afyachats Mobile App is a Mobile Application using Artificial Intelligence m
 
 link to video illustration ; https://drive.google.com/file/d/1b25Ov_77rBVzy54YFh09HhcKfXPOmwL4/view?usp=sharing
 
-Link to the slides : https://docs.google.com/presentation/d/1e0RjAsGztGMJSzBVgURZFJSvOOwOkTGpRzBNFlQ6UnQ/edit?usp=sharing
+Link to the slides : https://docs.google.com/presentation/d/13X1bOEHIT7WOhkl-lbp7w7V6PsHhLiFFEfNiy4rRNwo/edit?usp=sharing
 
 # Stack- Builds 
 
